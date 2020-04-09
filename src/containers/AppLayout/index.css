@@ -1,0 +1,15 @@
+.AppLayout__logo.ant-typography {
+  color: #fff;
+  padding: 1rem;
+}
+
+.AppLayout__header {
+  background: #fff;
+  padding: 0 1rem;
+}
+.AppLayout__header-avatar {
+  margin-right: 0.5rem;
+}
+.AppLayout__content {
+  margin: 1rem;
+}
